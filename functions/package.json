@@ -1,0 +1,22 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "eslintConfig": {
+    "extends": "./.eslintrc.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.1",
+    "firebase-admin": "^11.11.1",
+    "firebase-admin": "^11.11.1",
+    "firebase-admin": "^11.11.1",
+    "firebase-functions": "^3.24.1"
+  }
+}
