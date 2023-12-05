@@ -26,7 +26,8 @@ function Signup() {
       await setDoc(doc(firestore, "users", userCredential.user.uid), {
         fullName: fullName,
         email: email,
-        createdAt: new Date()
+        createdAt: new Date(),
+        superuser: false // Set the initial value of superuser to false
       });
       // Redirect or perform additional actions after successful signup
       // For example, navigate to the home page or user dashboard

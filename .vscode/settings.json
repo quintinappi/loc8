@@ -1,4 +1,6 @@
 {
     "easycode.model": "gpt-4",
-    "editor.inlineSuggest.showToolbar": "onHover"
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "codium.javascriptTestsConfig-1RunWorkingDirectory": "/Volumes/QDRIVEADATA/Coding/newloc8/loc8",
+    "codium.javascriptTestsConfig-2RunCommand": "/Volumes/QDRIVEADATA/Coding/newloc8/loc8"
 }
